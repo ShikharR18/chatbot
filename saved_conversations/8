@@ -1,0 +1,33 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : My name is XYZ
+bot :   - Hello! your name has been stored. What is your age?
+
+user : My age is 22
+bot :   - okay. your age has been stored. Which city do you live in?
+
+user : I live in Noida
+bot :   - okay location stored. Welcome to medical portal. Say Hi!
+
+user : HI
+bot :   - Hello. How are you feeling today?
+
+user : I am not feeling well
+bot :   - okay. can you tell me what's wrong? what are your symptoms?
+
+user : I have a headache
+bot :   - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+
+user : 3. Tension headache
+bot :  - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+
+user : Yes I want to book an appointment
+bot :   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
+
+user : Patient name: XYZ Date: 15.04.2022 Doctor: Dr. Manoj Hospital: MAx
+bot :   - appointment details saved. you shall be contacted shortly.
+
+user : thanks
+bot :   - happy to help!
+user : bye
+bot :   - Bye. Nice talking to you
+

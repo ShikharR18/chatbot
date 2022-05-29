@@ -1,0 +1,223 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : My name is Shikhar
+bot :   - Hello! your name has been stored. What is your age?
+
+user : My age is 22 years
+bot :   - okay. your age has been stored. Which city do you live in?
+
+user : I live in Noida
+bot :   - okay location stored. Welcome to medical portal. Say Hi!
+
+user : Hi!
+bot :   - Hello. How are you feeling today?
+
+user : I am not feeling well today.
+bot :   - Okay. can you tell me what's wrong? what are your symptoms?
+
+user : i have a headache
+bot :   - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+
+user : 3
+bot : - - i have a cluster headache
+
+user : tension headache - occsional
+bot :  - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+
+user : yes i would like to talk to a doctor
+bot :   - you shall be called once the doctor is available. Do you want to book an appointment?
+
+user : yes i want to book an appointment
+bot :   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
+
+user : Patient name: Shikhar Date:06/06/2022 Doctor: Dr. Manoj Hospital: Maxx
+bot :   - appointment details saved. you shall be contacted shortly.
+
+user : Thanks
+bot :   - happy to help!
+user : My name is Shikhar
+bot :   - Hello! your name has been stored. What is your age?
+
+user : My age is 22 years old
+bot :   - okay. your age has been stored. Which city do you live in?
+
+user : I live in Noida
+bot :   - okay location stored. Welcome to medical portal. Say Hi!
+
+user : Hi!
+bot :   - Hello. How are you feeling today?
+
+user : I am not feeling well today.
+bot :   - Okay. can you tell me what's wrong? what are your symptoms?
+
+user : I have a headache.
+bot :   - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+
+user : 2 Cluster headaches - severe and recurrent headaches
+bot : - - i have a migrane headache
+
+user : no i have a tension headache 
+bot :  - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+
+user : yes
+bot :   - Bye. Nice talking to you
+
+user : My name is Shikhar
+bot :   - Hello! your name has been stored. What is your age?
+
+user : My age is 22
+bot :   - okay. your age has been stored. Which city do you live in?
+
+user : I live in Delhi
+bot :   - okay location stored. Welcome to medical portal. Say Hi!
+
+user : Hi!
+bot :   - Hello. How are you feeling today?
+
+user : I am not feeling well
+bot :   - okay. can you tell me what's wrong? what are your symptoms?
+
+user : i have cough
+bot :   - You should take a spoon full of benadryl after your meal.
+
+user : I have high fever
+bot :   - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+
+user : My name is Shikhar
+bot :   - Hello! your name has been stored. What is your age?
+
+user : My age is 20
+bot :   - okay. your age has been stored. Which city do you live in?
+
+user : I live in Delhi
+bot :   - okay location stored. Welcome to medical portal. Say Hi!
+
+user : Hi!
+bot :   - Hello. How are you feeling today?
+
+user : I am feeling down
+bot :   - good to know. how may i assist you then?
+
+user : Can you suggest me medicine for fever
+bot :   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
+
+user : can you book my appointment
+bot :   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
+
+user : i have high fever
+bot :   - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+
+user : Hi my name is shikhar
+bot :   - Hello! your name has been stored. What is your age?
+
+user : I am 20 years old
+bot :   - okay. your age has been stored. Which city do you live in?
+
+user : I live in delhi
+bot :   - okay location stored. Welcome to medical portal. Say Hi!
+
+user : hello
+bot :   - Hi. How are you feeling today?
+
+user : I am not feeling well
+bot :   - okay. can you tell me what's wrong? what are your symptoms?
+
+user : I have a headache
+bot :   - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+
+user : 3 tension headache
+bot :  - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+
+user : no
+bot :   - okay. can you tell me what's wrong? what are your symptoms?
+
+user : My name is Shikhar 
+bot :   - Hello! your name has been stored. What is your age?
+
+user : My age is 22
+bot :   - okay. your age has been stored. Which city do you live in?
+
+user : I live in Delhi
+bot :   - okay location stored. Welcome to medical portal. Say Hi!
+
+user : Hi!
+bot :   - Hello. How are you feeling today?
+
+user : I am feeling a little down
+bot :   - good to know. how may i assist you then?
+
+user : my name is Shikhar
+bot :   - Hello! your name has been stored. What is your age?
+
+user : My age is 22
+bot :   - okay. your age has been stored. Which city do you live in?
+
+user : I live in Delhi
+bot :   - okay location stored. Welcome to medical portal. Say Hi!
+
+user : Hi!
+bot :   - Hello. How are you feeling today?
+
+user : I am not feeling well
+bot :   - okay. can you tell me what's wrong? what are your symptoms?
+
+user : I have a headache
+bot :   - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+
+user : 3. Tension headache
+bot :  - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+
+user : yes i would like to talk to a doctor
+bot :   - you shall be called once the doctor is available. Do you want to book an appointment?
+
+user : yes i want to book an appointment
+bot :   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
+
+user : Shikhar 5/5/22 Dr. Manoj Maxx hospital
+bot :   - appointment details saved. you shall be contacted shortly.
+
+user : thanks
+bot :   - happy to help!
+user : bye
+bot :   - Bye. Nice talking to you
+
+user : My name is XYZ
+bot :   - Hello! your name has been stored. What is your age?
+
+user : My age is 22.
+bot :   - okay. your age has been stored. Which city do you live in?
+
+user : I live in Noida
+bot :   - okay location stored. Welcome to medical portal. Say Hi!
+
+user : Hi!
+bot :   - Hello. How are you feeling today?
+
+user : I am not feeling well.
+bot :   - Okay. can you tell me what's wrong? what are your symptoms?
+
+user : I have a headache.
+bot :   - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+
+user : 3. Tension headache
+bot :  - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+
+user : Yes I would like to talk to a doctor.
+bot :   - you shall be called once the doctor is available. Do you want to book an appointment?
+
+user : Yes I want to book appointment
+bot :   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
+
+user : XYZ 15/04/2022 Mr.Manoj Maxx
+bot :   - symptom noted. Migraines tend to be recurrent, and each attack may last up to 3 days. would you like to talk to a doctor?
+
+user : I want to book an appointment
+bot :   - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
+
+user : Patient Name: XYZ Date: 15/04/2022 Doctor: Mr. Manoj Hospital: Max hospital
+bot :   - appointment details saved. you shall be contacted shortly.
+
+user : thanks
+bot :   - happy to help!
+user : my name is shikhar
+bot :   - Hello! your name has been stored. What is your age?
+
